@@ -30,3 +30,8 @@ pip install -r requirements.txt
 
 ### Execute o projeto
 python app.py
+
+\`\`\`python
+# Exemplo em Python
+print("Olá Mundo")
+\`\`\`
