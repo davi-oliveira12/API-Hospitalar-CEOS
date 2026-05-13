@@ -1,5 +1,6 @@
 # Sobre o projeto:
 A API Hospitalar  foi criada com o objetivo de simular um ambiente real de gestão hospitalar, permitindo operações como cadastro, consulta e controle de informações médicas.
+<img width="612" height="374" alt="medicos mexendo no computador" src="https://github.com/user-attachments/assets/8982d911-2025-4b78-a91d-051cfd7d96d6" />
 
 
 
