@@ -43,7 +43,9 @@ python app.py
 <img width="1920" height="1080" alt="Captura de Tela (5)" src="https://github.com/user-attachments/assets/3ee94db9-45f2-45ac-8ad4-4cd0f5e1ed89" />
 
 ### DELETE:
-<img width="1920" height="1080" alt="Captura de Tela (6)" src="https://github.com/user-attachments/assets/c4a243ba-8e26-40e8-90fd-9576c922a68c" />
+<img width="1920" height="1080" alt="Captura de Tela (7)" src="https://github.com/user-attachments/assets/25f3ba40-5c7b-4fd1-ab80-f7e9b25bddcf" />
+<img width="1920" height="1080" alt="Captura de Tela (8)" src="https://github.com/user-attachments/assets/58ff629d-0d28-4b26-8d63-ed5cba6f20a6" />
+
 
 
 
