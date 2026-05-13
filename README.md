@@ -30,3 +30,7 @@ pip install -r requirements.txt
 
 ### Execute o projeto
 python app.py
+
+## Teste com o Postman
+### GET
+<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/7cc0f147-8da5-49d8-8453-4427b2eeb5b0" />
