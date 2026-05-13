@@ -27,7 +27,7 @@ def deletar_paciente(id):
     for i in Pacientes:
         if i['id'] == id:
             Pacientes.remove(i)
-            return jsonify(mensagem =f'Paciente {id} deletado'), 200
+            return jsonify(mensagem =f'Paciente {id}'), 200
         return jsonify(mensagem=f'Paciente {id} não consta no hospital.'), 404
     
 app.run()
