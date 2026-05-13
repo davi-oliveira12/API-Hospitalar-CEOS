@@ -18,3 +18,15 @@ Esse projeto demonstra habilidades em:
 
 <img width="1200" height="545" alt="Coding" src="https://github.com/user-attachments/assets/e38424d5-e445-4bce-b4f4-119da8e3537e" />
 
+## Como rodar o projeto:
+### Clone o repositório
+git clone https://github.com/davi-oliveira12/API-Hospitalar-CEOS.git
+
+### Entre na pasta
+cd API-Hospitalar-CEOS
+
+### Instale as dependências
+pip install -r requirements.txt
+
+### Execute o projeto
+python app.py
