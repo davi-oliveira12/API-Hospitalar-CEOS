@@ -13,4 +13,5 @@ Esse projeto demonstra habilidades em:
 - Postman para testes
 - Bibliotexas nativas do python
 
-#
+<img width="1200" height="545" alt="Coding" src="https://github.com/user-attachments/assets/e38424d5-e445-4bce-b4f4-119da8e3537e" />
+
